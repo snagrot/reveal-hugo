@@ -1,5 +1,5 @@
 +++
-title = "reveal-hugo"
+title = "Transfert"
 description = "A Hugo theme for creating222 Reveal.js presentations"
 outputs = ["Reveal"]
 [reveal_hugo]
@@ -10,13 +10,13 @@ transition = "slide"
 transition_speed = "fast"
 [reveal_hugo.templates.hotpink]
 class = "hotpink"
-background = "#FF4081"
+background = "#FF0000"
 +++
 
 # 📽️
 
-# reveal-hugo
+# VMVARE
 
-A Hugo theme 22222 for creating Reveal.js presentations.
+Transfert de comptences 
 
-~ made by [@dzello](https://dzello.com/) ~
+~ made by  ~
