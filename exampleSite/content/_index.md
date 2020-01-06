@@ -1,6 +1,6 @@
 +++
 title = "reveal-hugo"
-description = "A Hugo theme for creating Reveal.js presentations"
+description = "A Hugo theme for creating222 Reveal.js presentations"
 outputs = ["Reveal"]
 [reveal_hugo]
 custom_theme = "reveal-hugo/themes/robot-lung.css"
